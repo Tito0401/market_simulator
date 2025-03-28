@@ -7,6 +7,7 @@ Earning = (Player Property × 1%) + 10
 Below is a table of daily performance data showing how tax rates influence player scores:
 
 Day     Tax Rate     Score
+
 684     1.000        103569.75  
 739     0.999        110711.21  
 821     0.998        109657.7  
